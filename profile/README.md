@@ -1,4 +1,4 @@
-# Bute Busters
+# Byte Busters
 
 Welcome to **Bute Busters**! We are a dynamic team dedicated to competing in hackathons, leveraging our diverse skills to solve complex problems and create innovative solutions.
 
