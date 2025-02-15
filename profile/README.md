@@ -19,7 +19,7 @@ We bring a wide array of technical skills to the table, including but not limite
 
 ## What We Do
 
-At Bute Busters, we thrive on challenges and innovation. Whether it's developing full-stack web applications, crafting intelligent AI/ML models, or integrating hardware solutions, our team is always ready to take on new challenges. We focus on:
+At Byte Busters, we thrive on challenges and innovation. Whether it's developing full-stack web applications, crafting intelligent AI/ML models, or integrating hardware solutions, our team is always ready to take on new challenges. We focus on:
 
 - Building robust and scalable software solutions
 - Implementing cutting-edge AI/ML techniques
